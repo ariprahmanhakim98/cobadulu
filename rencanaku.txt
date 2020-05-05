@@ -8,3 +8,4 @@ RENCANAKU
  bab 123
 -TROLL
  iseng-iseng
+ jngn iseng
