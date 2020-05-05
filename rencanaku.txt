@@ -7,5 +7,4 @@ RENCANAKU
  skaripsiku jadi
  bab 123
 -TROLL
- iseng-iseng
- jngn iseng
+serius
